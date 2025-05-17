@@ -1,4 +1,4 @@
 # new project
 This project was created by local system.
 
-created by Tejswini bobde
+created by Tejswini Bobde.
